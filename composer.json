@@ -1,0 +1,17 @@
+{
+    "name": "litvinenko/combinatorics",
+    "description": "Classes for generating combinatorial sets and solving some combinatorial problems",
+    "require": {
+        "php": ">=5.4.0",
+        "nicmart/tree": "~0.2",
+        "litvinenko/object": "*",
+        "litvinenko/app": "0.0.3"
+        },
+    "authors": [
+        {
+            "name": "Oleksandr Lytvynenko",
+            "email": "litvinenko1706@gmail.com",
+            "role": "Developer"
+        }
+    ],        
+}
